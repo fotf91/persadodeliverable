@@ -20,7 +20,11 @@ This project has been built using the following technologies:
 - Apache Maven 3.6.3
 - H2 Database
 
-# Run the Project
+# Get Started
+
+# Download the code
+Use the following command to clone the project:
+- ```git clone https://github.com/fotf91/persadodeliverable```
 
 ## Prerequisites
 
