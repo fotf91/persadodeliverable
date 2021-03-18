@@ -19,7 +19,7 @@ public class AuthorServiceImpl implements AuthorService {
 			return authorRepository.save(author);
 		} catch (Exception e) {
 			if(e.getMessage().contains("could not execute statement; SQL [n/a]; ") && e.getMessage().contains("AUTHOR(EMAIL_ADDRESS)")){
-				throw new GeneralCustomException("Email Address must be unique.");
+				throw new GeneralCustomException("Email Address is already in use.");
 			} else {
 				throw new GeneralCustomException(e.getMessage());
 			}
