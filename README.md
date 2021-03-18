@@ -11,18 +11,18 @@ The detailed documentation of the solution contains:
 - General errors that may occur per case.
 
 ## Collection of services
-A collection of services with sample input and endpoints per operation implemented, has been uploaded on Github as file [Persado Services.postman_collection.json](https://github.com/fotf91/persadodeliverable/blob/master/detailed_documentation/Persado%20Services.postman_collection.json).
+A collection of services with sample input and endpoints per operation implemented, has been uploaded on Github as file [Persado Services.postman_collection.json](https://github.com/fotf91/persadodeliverable/blob/master/detailed_documentation/Persado%20Services.postman_collection.json). This file can be imported as a collection in Postman in order to be able to test the functionality easier.
 
 ## Technology Used
 
-This project has been built using the following technologies:
+This project has been developed using the following technologies:
 - Java 1.8 with Spring Boot Framework
 - Apache Maven 3.6.3
 - H2 Database
 
 # Get Started
 
-# Download the code
+## Download the code
 Use the following command to clone the project:
 - ```git clone https://github.com/fotf91/persadodeliverable```
 
