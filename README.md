@@ -33,9 +33,10 @@ Navigate inside the project folder in order to run the application locally, then
 - mvn spring-boot:run
 
 ## Access Information
-Database can be accessed from the browser using the endpoint: http://localhost:8080/h2
-Username: user
-Password: pass
+Database can be accessed from the browser using:
+- Endpoint: http://localhost:8080/h2
+- Username: user
+- Password: pass
 
 # REST Operations
 
