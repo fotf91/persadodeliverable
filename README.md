@@ -3,7 +3,7 @@
 ## Documentation
 This is a brief documentation of the project.
 
-In order to view a detailed documentation of the solution, you can visit the document [Persado Project - Fotis Floros.pdf](https://github.com/fotf91/persadodeliverable/blob/master/detailed_documentation/Persado%20Project%20Documentation%20-%20Fotis%20Floros.pdf) uploaded on Github.
+In order to view a detailed documentation of the solution, you can visit the document [Persado Project Documentation - Fotis Floros.pdf](https://github.com/fotf91/persadodeliverable/blob/master/detailed_documentation/Persado%20Project%20Documentation%20-%20Fotis%20Floros.pdf) uploaded on Github.
 The detailed documentation of the solution contains:
 - Description of the database tables
 - Description of the Business Objects used, with the respective validations and format of the values.
@@ -11,7 +11,7 @@ The detailed documentation of the solution contains:
 - General errors that may occur per case.
 
 ## Collection of services
-A collection of services with sample input and endpoints per operation implemented, has been uploaded on Github as file *Persado Services.postman_collection.json*.
+A collection of services with sample input and endpoints per operation implemented, has been uploaded on Github as file [Persado Services.postman_collection.json](https://github.com/fotf91/persadodeliverable/blob/master/detailed_documentation/Persado%20Services.postman_collection.json).
 
 ## Technology Used
 
